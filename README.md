@@ -1,7 +1,7 @@
 # RIVETO      
     
 ![License](https://img.shields.io/github/license/Nsanjayboruds/RIVETO)
-![Issues](https://img.shields.io/github/issues/Nsanjayboruds/RIVETO)
+![Issues](https://img.shields.io/github/issues/Nsanjayboruds/RIVETO) 
 ![Stars](https://img.shields.io/github/stars/Nsanjayboruds/RIVETO)
 
 --- 
