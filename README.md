@@ -249,7 +249,7 @@ REACT_APP_RAZORPAY_KEY=
 ---
 
 ## 📝 Contribution Guidelines
-
+befor start contribution star the repo
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/YourFeature`)
 3. Commit your changes (`git commit -m 'Add feature'`)
