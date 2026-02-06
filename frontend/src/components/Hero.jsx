@@ -157,7 +157,7 @@ function Hero({ heroData, heroCount, setHeroCount }) {
         <div className="space-y-5 md:space-y-7 text-center relative z-10">
           <p 
             ref={text1Ref} 
-            className={`text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-extrabold leading-tight`}
+            className={`text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-extrabold leading-tight text-white`}
             style={{
               background: `linear-gradient(135deg, ${currentTheme.primary.includes('blue') ? '#3b82f6, #06b6d4, #8b5cf6' : currentTheme.primary.includes('purple') ? '#8b5cf6, #ec4899, #f43f5e' : currentTheme.primary.includes('amber') ? '#f59e0b, #ef4444, #ec4899' : '#10b981, #06b6d4, #3b82f6'})`,
               WebkitBackgroundClip: 'text',
